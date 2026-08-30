@@ -1,21 +1,27 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:2563EB&height=230&section=header&text=Zyad%20Sowilam&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Business%20Intelligence%20%26%20AI%20Developer&descAlignY=56&descSize=19" width="100%"/>
+# 👋 Zyad Sowilam
 
 <a href="https://linkedin.com/in/zyad-sowilam-798209228">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Turning+raw+data+into+decision-ready+insight;AI+Agents+%C2%B7+MCP+%C2%B7+Automated+Reporting+Pipelines;Tableau+%C2%B7+Python+%C2%B7+SQL+%C2%B7+Applied+ML;Biomedical+Engineer+%40+Cairo+University;Open+to+Remote+Opportunities&font=Fira+Code&center=true&width=600&height=40&duration=2800&pause=900&color=60A5FA&vCenter=true&size=21&random=false" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Business+Intelligence+%26+AI+Developer;Turning+raw+data+into+decision-ready+insight;AI+Agents+%C2%B7+MCP+%C2%B7+Automated+Reporting+Pipelines;Tableau+%C2%B7+Python+%C2%B7+SQL+%C2%B7+Applied+ML;Open+to+Remote+Opportunities&font=Fira+Code&center=true&width=600&height=40&duration=2800&pause=900&color=2563EB&vCenter=true&size=21&random=false" alt="Typing SVG"/>
 </a>
 
-<br/>
-
 <img src="https://komarev.com/ghpvc/?username=Zyadsowilam&label=Profile+Views&color=2563EB&style=for-the-badge" alt="Profile views" height="28"/>
-<a href="https://linkedin.com/in/zyad-sowilam-798209228"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="28"/></a>
-<a href="mailto:zyad.sowilam@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28"/></a>
+<img src="https://img.shields.io/github/followers/Zyadsowilam?label=Followers&style=for-the-badge&color=2563EB&logo=github" height="28"/>
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FZyadsowilam&label=Public%20Repos&query=%24.public_repos&style=for-the-badge&color=16a34a&logo=github" height="28"/>
+
+<br/><br/>
+
+<a href="#about"><img src="https://img.shields.io/badge/-About-2563EB?style=for-the-badge"/></a>
+<a href="#experience"><img src="https://img.shields.io/badge/-Experience-16a34a?style=for-the-badge"/></a>
+<a href="#tech-stack"><img src="https://img.shields.io/badge/-Tech%20Stack-eab308?style=for-the-badge"/></a>
+<a href="#projects"><img src="https://img.shields.io/badge/-Projects-ef4444?style=for-the-badge"/></a>
+<a href="#certifications"><img src="https://img.shields.io/badge/-Certifications-8b5cf6?style=for-the-badge"/></a>
+<a href="#connect"><img src="https://img.shields.io/badge/-Connect-0ea5e9?style=for-the-badge"/></a>
 
 </div>
 
-<br/>
-
+<a id="about"></a>
 ## 🧭 About Me
 
 ```yaml
@@ -29,43 +35,51 @@ looking_to_collaborate: open-source AI / data / automation projects
 
 <br/>
 
+<a id="experience"></a>
 ## 💼 Experience
 
-<table>
-<tr><td width="4"><b>🟦</b></td><td><b>Business Intelligence & AI Developer</b> · Cairo 3A Group (C3A) <br/><sub>Apr 2026 – Present · Cairo (On-site)</sub></td></tr>
-<tr><td colspan="2">
+<details open>
+<summary><b>🟦 Business Intelligence & AI Developer · Cairo 3A Group (C3A)</b> <sub>— Apr 2026 – Present · Cairo (On-site)</sub></summary>
+<br/>
 
 - Automated farm-operations dashboard (**59 greenhouses, 10 sectors**) driven by a scheduled AI agronomy pipeline — parses mixed-language field data, validates readings, and generates sourced treatment recommendations + EU export-compliance (MRL) checks every 10 minutes.
 - Built **Qutoof Export Atlas**, a 730-node password-gated sales analytics platform for 194 accounts with live USD→EGP conversion and YTD KPI estimation.
 - Shipped an automated cold-email sales pipeline (prospecting → reply classification → lead routing → FAQ handling) feeding the live sales dashboard.
 - Built a custom **Oracle Bridge** (Flask REST API + MCP wrapper + DuckDB caching) for governed, hallucination-resistant AI access to live Oracle EBS data — used for AR/collections and customer concentration risk.
 - Delivered internal AI training (27-slide deck + interactive course) to NCMP & ESGC staff.
-</td></tr>
 
-<tr><td><b>🟩</b></td><td><b>AI & Data Developer</b> · Cashbox Software Solutions <br/><sub>Jul 2025 – Apr 2026 · Remote</sub></td></tr>
-<tr><td colspan="2">
+</details>
+
+<details>
+<summary><b>🟩 AI & Data Developer · Cashbox Software Solutions</b> <sub>— Jul 2025 – Apr 2026 · Remote</sub></summary>
+<br/>
 
 - Built predictive ML models in Python and translated findings into structured, actionable product insights.
 - Automated recurring data workflows with **n8n**, cutting manual data compilation time and raising reporting frequency.
 - Designed and exposed REST APIs for data delivery; shipped inside agile sprints with weekly deliverables.
-</td></tr>
 
-<tr><td><b>🟨</b></td><td><b>Data Scientist & Business Development Intern</b> · Integrated Diagnostics Holdings (IDH) <br/><sub>Jul – Aug 2024 · Cairo</sub></td></tr>
-<tr><td colspan="2">
+</details>
+
+<details>
+<summary><b>🟨 Data Scientist & Business Development Intern · Integrated Diagnostics Holdings (IDH)</b> <sub>— Jul – Aug 2024 · Cairo</sub></summary>
+<br/>
 
 - Built AI/ML models to identify and recommend customers likely to return, supporting CRM retention strategy at a pan-African medical lab network.
 - Developed analytical dashboards and ad hoc reports for senior business-development stakeholders.
-</td></tr>
 
-<tr><td><b>🟧</b></td><td><b>Software Engineering Intern</b> · Allianz Egypt <br/><sub>Sep – Oct 2023 · Cairo</sub></td></tr>
-<tr><td colspan="2">
+</details>
+
+<details>
+<summary><b>🟧 Software Engineering Intern · Allianz Egypt</b> <sub>— Sep – Oct 2023 · Cairo</sub></summary>
+<br/>
 
 - Supported backend data services with Spring Boot; worked with enterprise data flows and structured reporting pipelines.
-</td></tr>
-</table>
+
+</details>
 
 <br/>
 
+<a id="tech-stack"></a>
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -81,6 +95,7 @@ looking_to_collaborate: open-source AI / data / automation projects
 
 <br/>
 
+<a id="projects"></a>
 ## 📌 Pinned & Recent Work
 
 <table>
@@ -136,6 +151,7 @@ looking_to_collaborate: open-source AI / data / automation projects
 
 <br/>
 
+<a id="certifications"></a>
 ## 🎓 Certifications
 
 <div align="center">
@@ -148,21 +164,7 @@ looking_to_collaborate: open-source AI / data / automation projects
 
 <br/>
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://img.shields.io/github/followers/Zyadsowilam?label=Followers&style=for-the-badge&color=2563EB&logo=github"/>
-<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FZyadsowilam&label=Public%20Repos&query=%24.public_repos&style=for-the-badge&color=16a34a&logo=github"/>
-<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FZyadsowilam&label=Following&query=%24.following&style=for-the-badge&color=eab308&logo=github"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com/?user=Zyadsowilam&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-
-</div>
-
-<br/>
+## 🐍 Contribution Activity
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/Zyadsowilam/Zyadsowilam/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%"/>
@@ -170,9 +172,10 @@ looking_to_collaborate: open-source AI / data / automation projects
 
 <br/>
 
+<a id="connect"></a>
 <div align="center">
 
-### 🤝 Let's Connect
+## 🤝 Let's Connect
 
 <a href="https://linkedin.com/in/zyad-sowilam-798209228" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:zyad.sowilam@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -181,6 +184,6 @@ looking_to_collaborate: open-source AI / data / automation projects
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:1E3A8A,100:0F172A&height=130&section=footer" width="100%"/>
+<a href="#top"><img src="https://img.shields.io/badge/⬆-Back%20to%20Top-2563EB?style=for-the-badge"/></a>
 
 </div>
